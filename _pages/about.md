@@ -15,8 +15,6 @@ I'm a PhD student in Social-Cultural Psychology at the University of Texas at El
 - Race, policing, and psychophysiology
 - Race perception and categorization
 
-I also teach PSYC 1303 (Statistical Methods) at UTEP.
-
 **Education**
 - M.S. in Experimental Psychology, Western Illinois University
 - B.A. in Psychology (minors in Criminal Justice and Sociology), Arcadia University
