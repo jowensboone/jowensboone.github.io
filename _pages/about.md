@@ -19,6 +19,6 @@ I'm a PhD student in Social-Cultural Psychology at the University of Texas at El
 - Race perception and categorization
 
 **Education**
-- Ph.D. in Social-Cultural Psychology (ABD), University of Texas at El Paso
-- M.S. in Experimental Psychology, Western Illinois University
-- B.A. in Psychology (minors in Criminal Justice and Sociology), Arcadia University
+- Ph.D. in Social-Cultural Psychology (ABD), University of Texas at El Paso (2028)
+- M.S. in Experimental Psychology, Western Illinois University (2023)
+- B.A. in Psychology (minors in Criminal Justice and Sociology), Arcadia University (2021)
