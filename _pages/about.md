@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jayce Owens-Boone, PhD Student in Social-Cultural Psychology"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
